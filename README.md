@@ -1,8 +1,9 @@
-              Hello World! 
+##                    Hello World
 
 - 🔭 Atualmente, sou estagiária de TI na área de infraestrutura/help desk.
 - 🌱 Estou cursando o 5° período de Engenharia de Software.
 - 📫 Contate-me pelo e-mail: sarahadassacarvalho@gmail.com
+
 
 <div>
   <a href="https://www.instagram.com/sarahadassa_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
